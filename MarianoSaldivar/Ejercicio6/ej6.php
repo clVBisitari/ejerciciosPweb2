@@ -1,5 +1,5 @@
 <?php
-require_once '.\MarianoSaldivar\Ejercicio6\Saludar.php';
+require_once 'Saludar.php';
 
 $sujeto = new Saludar("Cacho", "Castaña");
 
